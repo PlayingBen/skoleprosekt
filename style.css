@@ -18,4 +18,10 @@ body {
 
 .text span {
     color: darkred;
+    text-decoration:none;
+}
+
+.text a {
+    color: darkred;
+    text-decoration:none;
 }

@@ -2,6 +2,11 @@
 * {
     font-family: 'Rowdies', cursive;
 }
+
+body {
+    background-color: black;
+}
+
 .text{
     text-align:center;
     Padding-top: 200px;
